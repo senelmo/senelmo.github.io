@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "diesel-bee-307720",
+  "private_key_id": "ade0c19b29e5f36584de34b6ebe9499fe1e8e9a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfxQUyOK/bxfbn\n0B+9IZ/A3TDswySnYs1Gn7FuAncJBqxSsC3dKUJOJmjp654lModu0BX4jf1JjK+5\n0FYV+Fdwu0i5eLnRysxPtD5IRdvAwmv/MV2JHtcQlRNRJHlAyy5+dIb+/wYugMeI\nvMMTehNPTqcWwBPOPBHsbXqAtTimu3WXz1UxinhkM6Pb/DvVKpYL/b1z4yzpD6lb\nf19yAAOWLJGSBTj6tegou85dosp8lux6i00BIF18uojHzFY2j7bNx4aqY+Hvvdo0\nOoN/rlzCnRZlssVkJLXPqlnbLvuLVD3zWoYlQAYcyrH4ZNbeqFzV3PJNI87/SUsK\neqVvlqLJAgMBAAECggEAIE6bv3J7wWlFipZ73pyaKghFZgmOozQamxW3UkC82urB\nunaBSKsKTaox/4PrI0e2UgNtCKPHa/UJ8fPoWeevCDGiAFUzztxOvzswutKLNbtc\nSE3iSUfQmS5MyaxQbVBoeA1u6CX9yH0DUfSe3ZMEcrDSYvB8a4w0skPkKe0ALuIg\noid+9MsR0aGIC9LW+xvzCVSHDgrrnIMSI0YwLFQUoghN9tYgglCiBWFJCq/0Dk2d\nG1pCo0EYg+5V97APd1i2oefOdFUCgPPbMJVyt8rR5M0m/zWTXoJKK6+WE2bl5VJN\nm5vmNiw1r5qSfJIjg2l5Pptz20GWKvjRr2z8CXGM2QKBgQD4FjcVKYWUr1tuXFiK\nz8RfswhTqc9PCVoy1Gawv1xvPYeBaDmrXBomu+uTBYzu0ZdZUmXyzL5eaZjdOqZF\nQ616lr+udsuFl3aU9TUQXYJ5Byd9ZeUWNi0WNW3dKEHvm53x9bqct1fbzW7eJSAO\njhdZbEhKGx6KLVCQYTrFsLB+swKBgQDm6D15wpgAT/HdzUPWvOtSZYY0T+UtmFFW\n+LiYjWdT5ZQ8EheLAqEMo6WUrrDCHtv8UqPrLn3sinpOlnR/BuZnAAqz46Ih2gb7\niOt+ybZQgYg3pLgGMCQVnqA4cCBc71PzoSl3oa4NvozZh7Zp5yGUpQevUaL24o6Z\nbiRYkHuWkwKBgQCvDOXTDdhOwKkwJwLm95FlwWsXtZMs/rlhclP/VReA+pZ5rjQ7\nAKMHP8QKmnkGLmevxB9hgiy1a6dMOs0FxKpM/L/F99bFrckjdB38LS8Z/P1VUyeh\nU5ret9aMnZJg4ppBF5WUbR4WX09ieimze3loRKqBd79F2pGlPqX8xh7TVwKBgFam\nFdOoO0P6vAeArJFbiW79HBRrWtP2UaeyZAsTHRA1mZ/FJkKK9QZ6LnuR5lCiJekU\n1eA+LRDjkiwFd6fnXfSO5nVE2aWcXHxtj/mfFiQ1x3kh/dCMpi3avcMQCIT3ZmiJ\nNLdo25jaxZ4nuEMbcdWG7FBU8TN2Jw7abxcw+L+zAoGAO9QeyASupthndcantS9u\nX0upLGdox31e81XX776hF5OTlHEeJV4axwPgAKNI0+3jWxFT36CH0yDD8yA8voLQ\nUOODHqvL5T5IrKsgsON362WI3389+bdaRiqCuqo+1KGf2zxENZFfnbmknvwBLsfe\n1ePTmFPd8cIIwMsjLFPbQ0o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "diablo-mountain-research-email@diesel-bee-307720.iam.gserviceaccount.com",
+  "client_id": "108627269777835627504",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/diablo-mountain-research-email%40diesel-bee-307720.iam.gserviceaccount.com"
+}
